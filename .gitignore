@@ -1,0 +1,21 @@
+# Environment variables
+backend/.env
+
+# Go
+backend/bin/
+backend/tmp/
+
+# Flutter
+frontend/smart_office_queue/.dart_tool/
+frontend/smart_office_queue/.flutter-plugins
+frontend/smart_office_queue/.flutter-plugins-dependencies
+frontend/smart_office_queue/.packages
+frontend/smart_office_queue/build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
