@@ -81,6 +81,41 @@ The system currently supports:
 - WSL Ubuntu
 - Git & GitHub
 
+
+
+
+## Screenshots
+
+### Visitor Token Generation
+![Visitor Token Generation](screenshots/visitor-token.png)
+
+### Queue Status
+![Queue Status](screenshots/queue-status.png)
+
+### Staff Dashboard
+![Staff Dashboard](screenshots/staff-dashboard.png)
+
+### Call Next
+![Call Next](screenshots/call-next.png)
+
+### No Show and Complete
+![No Show and Complete](screenshots/no-show-complete.png)
+
+### Token Transfer
+![Token Transfer](screenshots/transfer.png)
+
+### Department Pause and Resume
+![Department Pause and Resume](screenshots/pause-resume.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+
+### Admin Dashboard
+![Department status](screenshots/department_status.png)
+
+
+
 ## Project Structure
 
 
@@ -109,6 +144,11 @@ smart-office-queue/
 ├── database/
 │   └── schema.sql
 │
+├── screenshots/
+│
 │
 ├── .gitignore
 └── README.md
+
+
+
