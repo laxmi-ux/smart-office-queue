@@ -2,6 +2,23 @@
 
 A full-stack queue and token management system designed for office visitors and staff. The system allows visitors to generate department-specific tokens and enables staff/admin users to manage queues in real time.
 
+
+## Demo Login Credentials
+
+### Admin
+- Email: `admin@smartoffice.com`
+- Password: `admin123`
+- Role: Admin
+
+### Staff
+- Email: `staff@smartoffice.com`
+- Password: `staff123`
+- Role: Staff
+
+### Visitor
+No login is required. Select **Continue as Visitor** from the login screen.
+
+
 ## Features
 
 ### Visitor Features
